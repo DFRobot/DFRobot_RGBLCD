@@ -41,9 +41,9 @@ You can clear the display by this function:
 
 
 <br>
- * @n [Get the module here](绛変笂鏋跺悗娣诲姞鍟嗗搧璐拱閾炬帴)
+ * @n [Get the module here](等上架后添加商品购买链接)
  * @n This example Set the volume size and play music snippet.
- * @n [Connection and Diagram](绛変笂鏋跺悗娣诲姞wiki閾炬帴)
+ * @n [Connection and Diagram](等上架后添加wiki链接)
  *
  * Copyright	[DFRobot](http://www.dfrobot.com), 2016
  * Copyright	GNU Lesser General Public License
